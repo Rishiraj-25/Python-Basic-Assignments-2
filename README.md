@@ -2,8 +2,8 @@
 
 # Determine the number is even or odd
 Task1:
-1.Taking imput from user 
-2.Then doing operation on number using if-else ststement
+1.Taking imput from user. 
+2.Then doing operation on number using if-else ststement.
 3.And using modulus operator we determin wather it is even or odd.
 
 # Sum of Numbers from 1 to 50
