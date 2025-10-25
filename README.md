@@ -1,6 +1,6 @@
 # Python-Basic-Assignments-2
 
-# Determine then numner is even or odd
+# Determine the number is even or odd
 Task1:
 1.Taking imput from user 
 2.Then doing operation on number using if-else ststement
