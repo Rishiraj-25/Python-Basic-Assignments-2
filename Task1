@@ -2,6 +2,6 @@
 num=int(input("Enter the integer number:-"))
 # Determine the number is even or odd
 if num%2==0:
-    print(num,"is even")
+    print(num,"is an even")
 else :
-    print(num,"is odd")    
+    print(num,"is an odd")    
