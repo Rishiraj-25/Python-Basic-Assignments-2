@@ -1,5 +1,7 @@
 # Python-Basic-Assignments-2
-Task 1:Determine then numner is even or odd
+
+#Determine then numner is even or odd
+Task1:
 1.Taking imput from user 
 2.Then doing operation on number using if-else ststement
 3.And using modulus operator we determin wather it is even or odd.
